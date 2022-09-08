@@ -1,0 +1,53 @@
+#dup {
+    background-color: aliceblue;
+    font-family: Impact;
+    height: 120px;
+    width: 200px;
+    border-radius: 3px;
+    border-style: inset;
+    text-align: center;
+    margin: 450px 0px 0px 800px;
+    padding: 10px;
+}
+
+#dup:hover {
+    background-color: aqua;
+    font-family: 'Courier New';
+    height: 120px;
+    width: 200px;
+    border-radius: 3px;
+    border-style: outset;
+    text-align: center;
+    margin: 440px 0px 0px 790px;
+    padding: 20px;
+}
+
+body {
+    background-color: beige;
+}
+
+button {
+    font-family: 'Franklin Gothic Medium';
+}
+#name {
+    border-style: double;
+
+}
+
+#name:hover {
+    border-radius: 5px;
+    border-style: dashed;
+    font-family: Helvetica;
+    background-color: blueviolet;
+}
+
+
+ol {
+    list-style-type:none;
+    padding:0;
+    margin:0;
+    font-size:18px;
+    height:2em;
+    line-height:2em;
+    text-align:center;
+  }
